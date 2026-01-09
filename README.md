@@ -16,7 +16,9 @@ npm install
 npm run dev
 ```
 
-The app will be available at `http://localhost:5173/`
+- The app will be available at `http://localhost:5173/`
+- The deployed version is available at `https://notes-assignment-teal.vercel.app/`
+- PS: I know their is no extra point of deployment    
 
 ## Component Breakdown
 
